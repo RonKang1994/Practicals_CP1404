@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c139380-a3e6-46fe-9849-86ebd7b72b24" name="Default Changelist" comment="Test Commit 2">
+    <list default="true" id="6c139380-a3e6-46fe-9849-86ebd7b72b24" name="Default Changelist" comment="Commit changes&#10;-Practical 3 - oddname, &#10;-Practical 1 - temp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sandbox/.idea/Sandbox.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sandbox/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sandbox/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sandbox/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sandbox/oddname.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,58 +14,76 @@
     <session id="576040641">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="22" />
-          <entry key="txt" value="1" />
+          <entry key="py" value="44" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="22" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="180" />
           <entry key="dummy" value="5" />
-          <entry key="py" value="3954" />
-          <entry key="txt" value="63" />
+          <entry key="py" value="4554" />
+          <entry key="txt" value="189" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="68" />
-          <entry key="Python" value="4134" />
+          <entry key="PLAIN_TEXT" value="194" />
+          <entry key="Python" value="4734" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practical 3/Lecture 3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+              <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
               <folding>
                 <marker date="1542613946009" expanded="true" signature="48:235" ph="..." />
                 <marker date="1542613946009" expanded="true" signature="246:251" ph="..." />
                 <marker date="1542613946009" expanded="true" signature="246:363" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practical 3/oddname.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practical 2/Practical 2 - password.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -105,18 +118,20 @@
         <option value="$PROJECT_DIR$/Practical 2/string_formatting_examples.py" />
         <option value="$PROJECT_DIR$/Practical 2/Practical 2 - string_formatting_examples.py" />
         <option value="$PROJECT_DIR$/Practical 2/Practical 2 - exception_practice.py" />
-        <option value="$PROJECT_DIR$/Practical 2/Practical 2 - Capitalist.py" />
         <option value="$PROJECT_DIR$/Practical 2/Practical 2 - exception_practice_2.py" />
         <option value="$PROJECT_DIR$/Practical 2/Practical 2 - password.py" />
         <option value="$PROJECT_DIR$/Practical 2/Practical 2 - files.py" />
         <option value="$PROJECT_DIR$/Practical 2/numbers.txt" />
         <option value="$PROJECT_DIR$/Practical 3/Lecture 3.py" />
+        <option value="$PROJECT_DIR$/Practical 3/new_test.py" />
+        <option value="$PROJECT_DIR$/Practical 2/Practical 2 - Capitalist.py" />
+        <option value="$PROJECT_DIR$/Practical 1/Practical 1 temp.py" />
+        <option value="$PROJECT_DIR$/Practical 3/oddname.py" />
+        <option value="$PROJECT_DIR$/Practical 1/Practical 1 Debigging.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="860" />
-    <option name="y" value="55" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -136,7 +151,7 @@
             <path>
               <item name="Practicals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practicals" type="462c0819:PsiDirectoryNode" />
-              <item name="Practical 3" type="462c0819:PsiDirectoryNode" />
+              <item name="Practical 2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -166,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Lecture 3">
+  <component name="RunManager" selected="Python.Practical 1 Debigging">
     <configuration name="Lecture 1 - Code" type="PythonConfigurationType" factoryName="Python">
       <module name="Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lecture 3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Practical 1 Debigging" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,11 +211,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 3/Lecture 3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 1/Practical 1 Debigging.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,6 +245,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Practical 1 temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practicals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 1/Practical 1 temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Practical 2 - Capitalist" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -251,7 +287,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Practical 2 - exception_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="new_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,11 +295,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 2/Practical 2 - exception_practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 3/new_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,7 +308,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Practical 2 - files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="oddname" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -280,32 +316,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 2/Practical 2 - files.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Practical 2 - password" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practicals" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 2/Practical 2 - password.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 3/oddname.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,19 +332,19 @@
     <list>
       <item itemvalue="Python.Lecture 1 - Code" />
       <item itemvalue="Python.Practical 1 Shop_calculator" />
+      <item itemvalue="Python.new_test" />
       <item itemvalue="Python.Practical 2 - Capitalist" />
-      <item itemvalue="Python.Practical 2 - exception_practice" />
-      <item itemvalue="Python.Practical 2 - files" />
-      <item itemvalue="Python.Practical 2 - password" />
-      <item itemvalue="Python.Lecture 3" />
+      <item itemvalue="Python.Practical 1 temp" />
+      <item itemvalue="Python.oddname" />
+      <item itemvalue="Python.Practical 1 Debigging" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lecture 3" />
-        <item itemvalue="Python.Practical 2 - files" />
-        <item itemvalue="Python.Practical 2 - password" />
-        <item itemvalue="Python.Practical 2 - exception_practice" />
+        <item itemvalue="Python.Practical 1 Debigging" />
+        <item itemvalue="Python.oddname" />
+        <item itemvalue="Python.Practical 1 temp" />
         <item itemvalue="Python.Practical 2 - Capitalist" />
+        <item itemvalue="Python.new_test" />
       </list>
     </recent_temporary>
   </component>
@@ -351,10 +366,31 @@
       <option name="project" value="LOCAL" />
       <updated>1542617474333</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit Practicals">
+      <created>1542680319687</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542680319687</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit changes&#10;-Practical 3 - oddname&#10;-Practical 2 - Capitalist&#10;-Practical 1 - temp">
+      <created>1542682481045</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542682481045</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit changes&#10;-Practical 3 - oddname, added functions&#10;-Practical 1 - Debugging, added functions">
+      <created>1542683801729</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542683801729</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="TodoView" selected-index="4">
+  <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -365,18 +401,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26173165" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26173165" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32577905" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.8323782" />
@@ -384,6 +421,16 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -417,28 +464,37 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test Commit" />
     <MESSAGE value="Test Commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Commit 2" />
+    <MESSAGE value="Commit Practicals" />
+    <MESSAGE value="Commit changes&#10;-Practical 3 - oddname&#10;-Practical 2 - Capitalist&#10;-Practical 1 - temp" />
+    <MESSAGE value="Commit changes&#10;-Practical 3 - oddname, added functions&#10;-Practical 1 - Debugging, added functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit changes&#10;-Practical 3 - oddname, added functions&#10;-Practical 1 - Debugging, added functions" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Sales_bonus.py" />
-    <entry file="file://$PROJECT_DIR$/Practical 1/Practical 1 temp.py">
+    <entry file="file://$PROJECT_DIR$/Practical 1/Lecture 1 - Code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="374">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practical 1/Practical 1 loop sales_bonus.py">
+    <entry file="file://$PROJECT_DIR$/Practical 2/string_formatting_examples.py" />
+    <entry file="file://$PROJECT_DIR$/Practical 2/Practical 2 - exception_practice_2.py" />
+    <entry file="file://$PROJECT_DIR$/Sandbox/oddname.py" />
+    <entry file="file://$PROJECT_DIR$/Practical 2/numbers.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="85">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practical 1/Practical 1 Debigging.py">
+    <entry file="file://$PROJECT_DIR$/Practical 2/output_capital.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 1/Practical 1 Shop_calculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -449,17 +505,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practical 1/Practical 1 Shop_calculator.py">
+    <entry file="file://$PROJECT_DIR$/Practical 1/Practical 1 loop sales_bonus.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practical 1/Practical 1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="88" column="47" selection-start-line="88" selection-start-column="47" selection-end-line="88" selection-end-column="47" />
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -470,10 +519,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practical 1/Lecture 1 - Code.py">
+    <entry file="file://$PROJECT_DIR$/Practical 1/Practical 1 temp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state>
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1542681777013" expanded="true" signature="103:106" ph="..." />
+            <marker date="1542681777013" expanded="true" signature="141:206" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 3/new_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 3/Lecture 3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding>
+            <marker date="1542613946009" expanded="true" signature="48:235" ph="..." />
+            <marker date="1542613946009" expanded="true" signature="246:251" ph="..." />
+            <marker date="1542613946009" expanded="true" signature="246:363" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Sandbox/oddname.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 2/Practical 2 - Capitalist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
@@ -484,21 +570,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practical 2/string_formatting_examples.py" />
+    <entry file="file://$PROJECT_DIR$/Practical 1/Practical 1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="88" column="47" selection-start-line="88" selection-start-column="47" selection-end-line="88" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 1/Practical 1 Debigging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 2/Practical 2 - files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Practical 2/Lecture 2 - Code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="170">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practical 2/Practical 2 - exception_practice_2.py" />
-    <entry file="file://$PROJECT_DIR$/Practical 2/Practical 2 - Capitalist.py">
+    <entry file="file://$PROJECT_DIR$/Practical 2/Practical 2 - string_formatting_examples.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Assignments/Project/Assignment_Menu.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Practical 2/Practical 2 - exception_practice.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -507,44 +615,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practical 2/numbers.txt">
+    <entry file="file://$PROJECT_DIR$/Practical 3/oddname.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practical 2/Practical 2 - string_formatting_examples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="289">
+          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practical 2/Practical 2 - password.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="270">
           <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practical 2/Practical 2 - files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sandbox/oddname.py" />
-    <entry file="file://$PROJECT_DIR$/Practical 3/Lecture 3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-          <folding>
-            <marker date="1542613946009" expanded="true" signature="48:235" ph="..." />
-            <marker date="1542613946009" expanded="true" signature="246:251" ph="..." />
-            <marker date="1542613946009" expanded="true" signature="246:363" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>

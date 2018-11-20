@@ -20,8 +20,9 @@ OUTPUT_FILE = 'output_capital.txt'
 def main():
     price = INITIAL_PRICE
     day = 1
-    out_file = open(OUTPUT_FILE, 'w')
-    print("On day {} price is ${:,.2f}".format(day, price), file=out_file)
+    # out_file = open(OUTPUT_FILE, 'w')
+    # print("On day {} price is ${:,.2f}".format(day, price), file=out_file)
+    print("On day {} price is ${:,.2f}".format(day, price))
 
     while price >= MIN_PRICE and price <= MAX_PRICE:
         price_change = 0
@@ -38,8 +39,9 @@ def main():
 
         price *= (1 + price_change)
         day += 1
-        print("On day {} price is ${:,.2f}".format(day, price), file=out_file)
+        # print("On day {} price is ${:,.2f}".format(day, price), file=out_file)
+        print("On day {} price is ${:,.2f}".format(day, price))
 
-    out_file.close()
+    # out_file.close()
 
 main()

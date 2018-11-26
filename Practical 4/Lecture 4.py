@@ -1,13 +1,20 @@
-def main():
-    name = str(input("Name: "))
-    letters = 0
-    vowels = 0
-    for char in name:
-        letters+=1
-        if char.lower() == 'a' or char.lower() == 'e' or char.lower() == 'i' or char.lower() == 'o' or char.lower() == 'u':
-            vowels+=1
+VOWELS_CHECK = 'aeiou'
 
-    print("Out of {} letters {} has {} vowels".format(letters, name, vowels))
+
+def check_vowel():
+    name = str(input("Name: "))
+    letter = 0
+    vowel = 0
+    for char in name:
+        letter += 1
+        for v_check in VOWELS_CHECK:
+            if char.lower() == v_check.lower():
+                vowel += 1
+    print("Out of {} letters {} has {} vowels".format(letter, name, vowel))
+
+
+def main():
+    check_vowel()
 
 
 main()

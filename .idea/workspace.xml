@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c139380-a3e6-46fe-9849-86ebd7b72b24" name="Default Changelist" comment="">
+    <list default="true" id="6c139380-a3e6-46fe-9849-86ebd7b72b24" name="Default Changelist" comment="Commit changes&#10;-Practical 4, lotter_ticket_generator.py added and done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practical 4/Lecture 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical 4/Lecture 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practical 4/loterry_ticket_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical 4/loterry_ticket_generator.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,53 +30,100 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="49" />
+          <entry key="py" value="54" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="49" />
+          <entry key="Python" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="180" />
+          <entry key="Python Console" value="360" />
           <entry key="dummy" value="5" />
-          <entry key="py" value="5221" />
-          <entry key="txt" value="337" />
+          <entry key="py" value="6634" />
+          <entry key="txt" value="780" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="342" />
-          <entry key="Python" value="5401" />
+          <entry key="PLAIN_TEXT" value="785" />
+          <entry key="Python" value="6994" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practical 4/Lecture 4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="378">
+              <caret line="24" column="11" lean-forward="true" selection-start-line="23" selection-end-line="24" selection-end-column="11" />
               <folding>
-                <marker date="1543279222808" expanded="true" signature="591:596" ph="..." />
-                <marker date="1543279222808" expanded="true" signature="591:656" ph="..." />
-                <marker date="1543279222808" expanded="true" signature="591:765" ph="..." />
+                <marker date="1543279289249" expanded="true" signature="563:568" ph="..." />
+                <marker date="1543279289249" expanded="true" signature="563:628" ph="..." />
+                <marker date="1543279289249" expanded="true" signature="563:773" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practical 2/Lecture 2 - Code.py">
+        <entry file="file://$PROJECT_DIR$/Practical 4/total_income.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="374">
+              <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practical 4/number_calculation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <marker date="1543284551185" expanded="true" signature="11:141" ph="..." />
+                <marker date="1543284551185" expanded="true" signature="11:467" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practical 4/security_checker.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <folding>
+                <marker date="1543284830192" expanded="true" signature="11:12" ph="..." />
+                <marker date="1543284830192" expanded="true" signature="11:526" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practical 4/list_comprehensions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="42" column="45" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practical 4/loterry_ticket_generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <marker date="1543290405825" expanded="true" signature="26:392" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,12 +170,18 @@
         <option value="$PROJECT_DIR$/Practical 1/Practical 1 Debigging.py" />
         <option value="$PROJECT_DIR$/Practical 2/word_generator.py" />
         <option value="$PROJECT_DIR$/Practical 4/Lecture 4.py" />
+        <option value="$PROJECT_DIR$/Practical 4/total_income.py" />
+        <option value="$PROJECT_DIR$/Practical 4/number_calculation.py" />
+        <option value="$PROJECT_DIR$/Practical 4/security_checker.py" />
+        <option value="$PROJECT_DIR$/Practical 4/list_comprehensions.py" />
+        <option value="$PROJECT_DIR$/Practical 4/loterry_ticket_generator.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -181,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Lecture 4">
+  <component name="RunManager" selected="Python.loterry_ticket_generator">
     <configuration name="Lecture 1 - Code" type="PythonConfigurationType" factoryName="Python">
       <module name="Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,48 +248,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\ronka\Documents\JCU Lecutre Notes\CP 1404\Practicals\Practical 1\Lecture 1 - Code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lecture 4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practicals" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 4/Lecture 4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Practical 1 Debigging" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practicals" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 1/Practical 1 Debigging.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Practical 1 temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="list_comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,11 +285,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 1/Practical 1 temp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 4/list_comprehensions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,7 +298,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="oddname" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="loterry_ticket_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,11 +306,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 3/oddname.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 4/loterry_ticket_generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,7 +319,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="word_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="number_calculation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -316,11 +327,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 2/word_generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 4/number_calculation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="security_checker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practicals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 4/security_checker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="total_income" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practicals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 4/total_income.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,19 +385,19 @@
     <list>
       <item itemvalue="Python.Lecture 1 - Code" />
       <item itemvalue="Python.Practical 1 Shop_calculator" />
-      <item itemvalue="Python.Practical 1 temp" />
-      <item itemvalue="Python.oddname" />
-      <item itemvalue="Python.Practical 1 Debigging" />
-      <item itemvalue="Python.word_generator" />
-      <item itemvalue="Python.Lecture 4" />
+      <item itemvalue="Python.total_income" />
+      <item itemvalue="Python.number_calculation" />
+      <item itemvalue="Python.security_checker" />
+      <item itemvalue="Python.list_comprehensions" />
+      <item itemvalue="Python.loterry_ticket_generator" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lecture 4" />
-        <item itemvalue="Python.word_generator" />
-        <item itemvalue="Python.Practical 1 Debigging" />
-        <item itemvalue="Python.oddname" />
-        <item itemvalue="Python.Practical 1 temp" />
+        <item itemvalue="Python.loterry_ticket_generator" />
+        <item itemvalue="Python.list_comprehensions" />
+        <item itemvalue="Python.security_checker" />
+        <item itemvalue="Python.number_calculation" />
+        <item itemvalue="Python.total_income" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +468,42 @@
       <option name="project" value="LOCAL" />
       <updated>1543221172562</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Commit changes&#10;-Practical 4, lecture codes - created long_list function:&#10;The function takes in a string converts it to a list that consists of only those which has a character count of more than a certain number">
+      <created>1543279374283</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1543279374283</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Commit changes&#10;-Practical 4, total_income.py added with personal modifications -&#10;created the function print_income">
+      <created>1543283151766</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1543283151766</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Commit changes&#10;-Practical 4, number_calculation.py and security_checker.py added">
+      <created>1543284867766</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1543284867766</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Commit changes&#10;-Practical 4, list_comprehensions.py added with TODO sections done">
+      <created>1543287849426</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1543287849426</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Commit changes&#10;-Practical 4, lotter_ticket_generator.py added and done">
+      <created>1543289744302</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1543289744302</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -429,13 +517,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26173165" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26173165" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32577905" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32577905" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -443,7 +532,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.8323782" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.8409742" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -498,7 +587,12 @@
     <MESSAGE value="Commit changes&#10;-Practical 2, added word_generator.py" />
     <MESSAGE value="Commit changes&#10;-Practical 4, lecture codes how many letters and vowels are there in the name input" />
     <MESSAGE value="Commit changes&#10;-Practical 4, lecture codes how many letters and vowels changed to a function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit changes&#10;-Practical 4, lecture codes how many letters and vowels changed to a function" />
+    <MESSAGE value="Commit changes&#10;-Practical 4, lecture codes - created long_list function:&#10;The function takes in a string converts it to a list that consists of only those which has a character count of more than a certain number" />
+    <MESSAGE value="Commit changes&#10;-Practical 4, total_income.py added with personal modifications -&#10;created the function print_income" />
+    <MESSAGE value="Commit changes&#10;-Practical 4, number_calculation.py and security_checker.py added" />
+    <MESSAGE value="Commit changes&#10;-Practical 4, list_comprehensions.py added with TODO sections done" />
+    <MESSAGE value="Commit changes&#10;-Practical 4, lotter_ticket_generator.py added and done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit changes&#10;-Practical 4, lotter_ticket_generator.py added and done" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Sales_bonus.py" />
@@ -647,12 +741,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Practical 4/Lecture 4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="378">
+          <caret line="24" column="11" lean-forward="true" selection-start-line="23" selection-end-line="24" selection-end-column="11" />
           <folding>
-            <marker date="1543279222808" expanded="true" signature="591:596" ph="..." />
-            <marker date="1543279222808" expanded="true" signature="591:656" ph="..." />
-            <marker date="1543279222808" expanded="true" signature="591:765" ph="..." />
+            <marker date="1543279289249" expanded="true" signature="563:568" ph="..." />
+            <marker date="1543279289249" expanded="true" signature="563:628" ph="..." />
+            <marker date="1543279289249" expanded="true" signature="563:773" ph="..." />
           </folding>
         </state>
       </provider>
@@ -661,6 +755,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 4/number_calculation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1543284551185" expanded="true" signature="11:141" ph="..." />
+            <marker date="1543284551185" expanded="true" signature="11:467" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 4/total_income.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 4/security_checker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <marker date="1543284830192" expanded="true" signature="11:12" ph="..." />
+            <marker date="1543284830192" expanded="true" signature="11:526" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 4/list_comprehensions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="42" column="45" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 4/loterry_ticket_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1543290405825" expanded="true" signature="26:392" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

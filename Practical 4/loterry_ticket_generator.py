@@ -1,5 +1,6 @@
 import random
 
+
 def main():
     pick_total = int(input("How many quick picks? "))
     for i in range(pick_total):
@@ -12,8 +13,6 @@ def main():
             if j == 5:
                 picks.sort()
                 print(picks)
-
-
 
 
 main()

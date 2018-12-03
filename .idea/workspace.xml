@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c139380-a3e6-46fe-9849-86ebd7b72b24" name="Default Changelist" comment="Commit changes&#10;-Practical 4, lotter_ticket_generator.py added and done">
+    <list default="true" id="6c139380-a3e6-46fe-9849-86ebd7b72b24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Practical 5/Lecture 5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practical 4/loterry_ticket_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical 4/loterry_ticket_generator.py" afterDir="false" />
     </list>
@@ -15,7 +16,7 @@
     <session id="576040641">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="4" />
@@ -23,106 +24,52 @@
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="54" />
+          <entry key="py" value="55" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="54" />
+          <entry key="Python" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="360" />
           <entry key="dummy" value="5" />
-          <entry key="py" value="6634" />
+          <entry key="py" value="7152" />
           <entry key="txt" value="780" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="785" />
-          <entry key="Python" value="6994" />
+          <entry key="Python" value="7512" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practical 4/Lecture 4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="24" column="11" lean-forward="true" selection-start-line="23" selection-end-line="24" selection-end-column="11" />
-              <folding>
-                <marker date="1543279289249" expanded="true" signature="563:568" ph="..." />
-                <marker date="1543279289249" expanded="true" signature="563:628" ph="..." />
-                <marker date="1543279289249" expanded="true" signature="563:773" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practical 4/total_income.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practical 4/number_calculation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <marker date="1543284551185" expanded="true" signature="11:141" ph="..." />
-                <marker date="1543284551185" expanded="true" signature="11:467" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practical 4/security_checker.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-              <folding>
-                <marker date="1543284830192" expanded="true" signature="11:12" ph="..." />
-                <marker date="1543284830192" expanded="true" signature="11:526" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practical 4/list_comprehensions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="42" column="45" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Practical 4/loterry_ticket_generator.py">
+        <entry file="file://$PROJECT_DIR$/Practical 5/Lecture 5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="323">
+              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
               <folding>
-                <marker date="1543290405825" expanded="true" signature="26:392" ph="..." />
+                <marker date="1543825713425" expanded="true" signature="273:462" ph="..." />
+                <marker date="1543825713425" expanded="true" signature="473:474" ph="..." />
+                <marker date="1543825713425" expanded="true" signature="473:478" ph="..." />
+                <marker date="1543825713425" expanded="true" signature="473:642" ph="..." />
+                <marker date="1543825713425" expanded="true" signature="473:644" ph="..." />
               </folding>
             </state>
           </provider>
@@ -175,12 +122,13 @@
         <option value="$PROJECT_DIR$/Practical 4/security_checker.py" />
         <option value="$PROJECT_DIR$/Practical 4/list_comprehensions.py" />
         <option value="$PROJECT_DIR$/Practical 4/loterry_ticket_generator.py" />
+        <option value="$PROJECT_DIR$/Practical 5/Lecture 5.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="952" />
-    <option name="width" value="977" />
+    <option name="width" value="945" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -189,7 +137,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,20 +144,11 @@
               <item name="Practicals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practicals" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Practicals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practicals" type="462c0819:PsiDirectoryNode" />
-              <item name="Practical 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practicals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practicals" type="462c0819:PsiDirectoryNode" />
-              <item name="Practical 4" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -234,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.loterry_ticket_generator">
+  <component name="RunManager" selected="Python.Lecture 5">
     <configuration name="Lecture 1 - Code" type="PythonConfigurationType" factoryName="Python">
       <module name="Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,6 +186,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\ronka\Documents\JCU Lecutre Notes\CP 1404\Practicals\Practical 1\Lecture 1 - Code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lecture 5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practicals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 5/Lecture 5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,43 +320,22 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="total_income" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practicals" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 4/total_income.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.Lecture 1 - Code" />
       <item itemvalue="Python.Practical 1 Shop_calculator" />
-      <item itemvalue="Python.total_income" />
       <item itemvalue="Python.number_calculation" />
       <item itemvalue="Python.security_checker" />
       <item itemvalue="Python.list_comprehensions" />
       <item itemvalue="Python.loterry_ticket_generator" />
+      <item itemvalue="Python.Lecture 5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lecture 5" />
         <item itemvalue="Python.loterry_ticket_generator" />
         <item itemvalue="Python.list_comprehensions" />
         <item itemvalue="Python.security_checker" />
         <item itemvalue="Python.number_calculation" />
-        <item itemvalue="Python.total_income" />
       </list>
     </recent_temporary>
   </component>
@@ -503,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543289744302</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Commit changes&#10;-Practical 4, lotter_ticket_generator.py added and done">
+      <created>1543290697452</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1543290697452</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -516,15 +461,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="762" y="0" width="756" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26173165" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27121" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32577905" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3252149" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -739,18 +683,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practical 4/Lecture 4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="24" column="11" lean-forward="true" selection-start-line="23" selection-end-line="24" selection-end-column="11" />
-          <folding>
-            <marker date="1543279289249" expanded="true" signature="563:568" ph="..." />
-            <marker date="1543279289249" expanded="true" signature="563:628" ph="..." />
-            <marker date="1543279289249" expanded="true" signature="563:773" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practical 2/Lecture 2 - Code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -758,10 +690,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 4/total_income.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Practical 4/number_calculation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <marker date="1543284551185" expanded="true" signature="11:141" ph="..." />
             <marker date="1543284551185" expanded="true" signature="11:467" ph="..." />
@@ -769,17 +708,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practical 4/total_income.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practical 4/security_checker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
           <folding>
             <marker date="1543284830192" expanded="true" signature="11:12" ph="..." />
             <marker date="1543284830192" expanded="true" signature="11:526" ph="..." />
@@ -787,19 +719,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 4/Lecture 4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <marker date="1543279289249" expanded="true" signature="563:568" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Practical 4/list_comprehensions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="561">
           <caret line="42" column="45" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practical 4/loterry_ticket_generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
           <folding>
-            <marker date="1543290405825" expanded="true" signature="26:392" ph="..." />
+            <marker date="1543821501178" expanded="true" signature="27:391" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 5/Lecture 5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding>
+            <marker date="1543825713425" expanded="true" signature="273:462" ph="..." />
+            <marker date="1543825713425" expanded="true" signature="473:474" ph="..." />
+            <marker date="1543825713425" expanded="true" signature="473:478" ph="..." />
+            <marker date="1543825713425" expanded="true" signature="473:642" ph="..." />
+            <marker date="1543825713425" expanded="true" signature="473:644" ph="..." />
           </folding>
         </state>
       </provider>

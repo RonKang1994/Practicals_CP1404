@@ -8,7 +8,7 @@ def main():
                    "azure": "#f0ffff", "beige": "#f5f5dc", "bisque": "#ffe4c4", "black": "#000000",
                    "blueviolet": "#8a2be2", "brown	": "#a52a2a", "chocolate": "#d2691e"}
 
-    color = input("Enter color: "}
+    color = input("Enter color: ")
     while color != "":
         if color.lower() in COLOR_NAMES:
             print(color.lower(), "color code is", COLOR_NAMES[color.lower()])

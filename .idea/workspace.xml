@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c139380-a3e6-46fe-9849-86ebd7b72b24" name="Default Changelist" comment="Commit changes&#10;-Practical 5, added the codes i did for the week 5 lecture">
+    <list default="true" id="6c139380-a3e6-46fe-9849-86ebd7b72b24" name="Default Changelist" comment="-Practical 5, color_names.py comments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practical 5/color_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical 5/color_names.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,28 +30,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="57" />
+          <entry key="py" value="58" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="57" />
+          <entry key="Python" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="360" />
           <entry key="dummy" value="5" />
-          <entry key="py" value="7454" />
-          <entry key="txt" value="830" />
+          <entry key="py" value="7892" />
+          <entry key="txt" value="880" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="835" />
-          <entry key="Python" value="7814" />
+          <entry key="PLAIN_TEXT" value="885" />
+          <entry key="Python" value="8252" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -90,13 +91,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practical 5/color_names.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="136">
+              <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
               <folding>
-                <marker date="1543888939807" expanded="true" signature="11:786" ph="..." />
+                <marker date="1543889986839" expanded="true" signature="11:809" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practical 5/count_words.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <folding>
+                <marker date="1543892232119" expanded="true" signature="99:644" ph="..." />
               </folding>
             </state>
           </provider>
@@ -155,8 +168,9 @@
         <option value="$PROJECT_DIR$/Practical 4/list_comprehensions.py" />
         <option value="$PROJECT_DIR$/Practical 4/loterry_ticket_generator.py" />
         <option value="$PROJECT_DIR$/Practical 5/Lecture 5.py" />
-        <option value="$PROJECT_DIR$/Practical 5/color_names.py" />
         <option value="$PROJECT_DIR$/Practical 5/state_names.py" />
+        <option value="$PROJECT_DIR$/Practical 5/color_names.py" />
+        <option value="$PROJECT_DIR$/Practical 5/count_words.py" />
       </list>
     </option>
   </component>
@@ -212,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.color_names">
+  <component name="RunManager" selected="Python.count_words">
     <configuration name="Lecture 1 - Code" type="PythonConfigurationType" factoryName="Python">
       <module name="Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -297,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="count_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,11 +319,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 4/list_comprehensions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical 5/count_words.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,19 +377,19 @@
     <list>
       <item itemvalue="Python.Lecture 1 - Code" />
       <item itemvalue="Python.Practical 1 Shop_calculator" />
-      <item itemvalue="Python.list_comprehensions" />
       <item itemvalue="Python.loterry_ticket_generator" />
       <item itemvalue="Python.Lecture 5" />
       <item itemvalue="Python.state_names" />
       <item itemvalue="Python.color_names" />
+      <item itemvalue="Python.count_words" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.count_words" />
         <item itemvalue="Python.color_names" />
         <item itemvalue="Python.state_names" />
         <item itemvalue="Python.Lecture 5" />
         <item itemvalue="Python.loterry_ticket_generator" />
-        <item itemvalue="Python.list_comprehensions" />
       </list>
     </recent_temporary>
   </component>
@@ -495,7 +509,21 @@
       <option name="project" value="LOCAL" />
       <updated>1543825823318</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Commit changes&#10;-Practical 5, added color_names.py and state_names.py">
+      <created>1543889153911</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1543889153911</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Commit changes&#10;-Practical 5, color_names.py comments">
+      <created>1543889489458</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1543889489458</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView">
@@ -509,14 +537,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12888302" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12888302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3243626" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3243626" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -585,7 +612,9 @@
     <MESSAGE value="Commit changes&#10;-Practical 4, list_comprehensions.py added with TODO sections done" />
     <MESSAGE value="Commit changes&#10;-Practical 4, lotter_ticket_generator.py added and done" />
     <MESSAGE value="Commit changes&#10;-Practical 5, added the codes i did for the week 5 lecture" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit changes&#10;-Practical 5, added the codes i did for the week 5 lecture" />
+    <MESSAGE value="Commit changes&#10;-Practical 5, added color_names.py and state_names.py" />
+    <MESSAGE value="Commit changes&#10;-Practical 5, color_names.py comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit changes&#10;-Practical 5, color_names.py comments" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Sales_bonus.py" />
@@ -805,10 +834,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Practical 5/color_names.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="136">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
           <folding>
-            <marker date="1543888939807" expanded="true" signature="11:786" ph="..." />
+            <marker date="1543889986839" expanded="true" signature="11:809" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 5/count_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <marker date="1543892232119" expanded="true" signature="99:644" ph="..." />
           </folding>
         </state>
       </provider>

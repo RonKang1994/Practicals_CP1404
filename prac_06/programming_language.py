@@ -1,6 +1,6 @@
 class ProgrammingLanguage:
     """Represent a Programming language object."""
-    def __init__(self, field="", typing="Dynamic", dynamic = True, year=2000):
+    def __init__(self, field="", typing="Dynamic", dynamic=True, year=2000):
         """Initialise a Language instance."""
         self.field = field
         if typing.lower() == "dynamic" or typing.lower() == "static":

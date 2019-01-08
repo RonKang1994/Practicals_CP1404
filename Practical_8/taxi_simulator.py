@@ -1,6 +1,7 @@
 from Practical_8.taxi import Taxi
 from Practical_8.silver_taxi import SilverServiceTaxi
 
+
 def menu():
     print("q)uit, c)hoose taxi, d)rive")
 
